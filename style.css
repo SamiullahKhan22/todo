@@ -1,0 +1,47 @@
+body{
+    background-image: url(image.jpg);
+}
+.main{
+    margin-left: 35%;
+    width: 30%;
+    height: 60vh;
+    background-color: coral;
+}
+.enter {
+    text-align: center;
+    margin-top: 50px;
+}
+input{
+    margin-top: 10px;
+    height: 3vh;
+    border-radius: 15px;
+    border: none;
+    padding: 5px;
+}
+.enter button{
+    height: 3vh;
+    border-radius: 15px;
+    border: none;
+    padding: 5px;
+background-color: aqua;
+opacity: 0.5;
+}
+/* .enter button:hover{
+    background-color: rgb(175, 211, 211);
+} */
+.btn {
+    border-radius: 20px;
+    margin-left: 48px;
+    margin-top: 40px;
+    font-size: 1rem;
+    border: none;
+    padding: 5px;
+    background-color: aqua;
+    background-color: rgb(175, 211, 211);
+
+}
+.list{
+    text-align: center;
+    font-size: 1.5rem;
+
+}
